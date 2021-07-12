@@ -1,0 +1,54 @@
+<!<<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+ h1 {text-align-last: center;}
+ .first{text-align-last: center;}
+ .second {color:(210,80.50);}
+ #e1 {background-color: red;}
+ #e2 {border-style:solid; border-width:5px;}
+ body {border-color:Powderblue;}
+
+ body {background-image: url("IMG-20200724-WA0006.jpg"); background-repeat:no-repeat; background-position:right bottom; }
+
+</style>
+  </head>
+  <body>
+    <h1 id="e1" class="first">sports</h1>
+    <h2 id="e2">volleyball</h2>
+    <br>
+    <p>it is 2 teams,6 players on each side</p>
+    <p>players use their hands to bat ball over ahigh net </p>
+    <br>
+    <h2>history</h2>
+    <p>volleyball was invited in 1895 </p>
+    <br>
+
+    <table>
+<tr>
+  <th class="second">volleyball</th>
+  <th class="second">tennis</th>
+  <th class="second">football</th>
+  <br>
+</tr>
+<tr>
+  <td>teams</td>
+  <td>single</td>
+  <td>teams</td>
+  <br>
+</tr>
+<ul>
+  <li>first</li>
+  <li>second</li>
+  <li>third</li>
+  <br>
+</ul>
+<br>
+<h3>Favourite sports</h3>
+<p>My Favourite sport is Football</p>
+<p>I practise it every day 1</p>
+   </table>
+
+  </body>
+</html>
